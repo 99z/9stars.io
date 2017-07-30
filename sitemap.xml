@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/testing/</loc>
+    <loc>http://9stars.io/posts/testing/</loc>
     <lastmod>2017-07-29T23:43:34-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/</loc>
+    <loc>http://9stars.io/</loc>
     <lastmod>2017-07-29T23:43:34-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>http://9stars.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://9stars.io/posts/</loc>
     <lastmod>2017-07-29T23:43:34-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://9stars.io/tags/</loc>
     <priority>0</priority>
   </url>
   
